@@ -1,0 +1,9 @@
+.main-div {
+    max-width: 100%;
+    min-height: 93.5vh;
+    background-color: #535050;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
